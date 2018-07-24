@@ -4,6 +4,7 @@
   "description": "static website",
   "private": true,
   "dependencies": {
+    "bootstrap-vue": "^2.0.0-rc.11",
     "lodash": "^4.17.10",
     "vue": "^2.5.16"
   },
