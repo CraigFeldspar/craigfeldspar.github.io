@@ -1,5 +1,5 @@
 {
-  "name": "craigfeldspar.github.io",
+  "name": "wanaweekend",
   "version": "1.0.0",
   "description": "static website",
   "private": true,
@@ -26,14 +26,6 @@
     "watch": "webpack --watch",
     "start": "webpack-dev-server --hot"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CraigFeldspar/craigfeldspar.github.io.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CraigFeldspar/craigfeldspar.github.io/issues"
-  },
-  "homepage": "https://github.com/CraigFeldspar/craigfeldspar.github.io#readme"
 }
